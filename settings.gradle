@@ -1,0 +1,5 @@
+rootProject.name = 'multi2'
+
+include 'module-core'
+include 'module-batch'
+
